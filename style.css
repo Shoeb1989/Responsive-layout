@@ -13,11 +13,22 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.2;
+    font-size: 1.5;
 }
 
 .day{
 
     background-color: blanchedalmond;
-    font-size: 1.0;
+    font-size: 0.5;
+}
+
+.Name{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    border-radius: 5px;
+    height: auto;
+    
+
+
 }
