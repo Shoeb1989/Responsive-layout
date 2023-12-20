@@ -1,0 +1,17 @@
+.flex{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    row-gap: 5px;
+    column-gap: 10px;
+} 
+
+
+.date{
+    background-color: blue;
+    border-radius: 5px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2;
+}
