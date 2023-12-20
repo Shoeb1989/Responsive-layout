@@ -6,12 +6,18 @@
 } 
 
 
-.date{
-    background-color: blue;
+.date, .day{
+    background-color: beige;
     border-radius: 5px;
     height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 1.2;
+}
+
+.day{
+
+    background-color: blanchedalmond;
+    font-size: 1.0;
 }
